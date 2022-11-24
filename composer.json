@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.5",
-        "guzzlehttp/guzzle": "^6.5",
+        "guzzlehttp/guzzle": "^7.5",
         "symfony/filesystem": "~2.3|~3.0",
         "symfony/finder": "~2.3|~3.0",
         "glicer/simply-html": "~1.0"

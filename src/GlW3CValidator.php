@@ -72,7 +72,7 @@ class GlW3CValidator
     public function __construct(
         $resultrootdir,
         $urlHtmlValidator = "https://validator.w3.org/nu",
-        $urlCssValidator = "http://jigsaw.w3.org/css-validator"
+        $urlCssValidator = "https://jigsaw.w3.org/css-validator"
     ) {
         $this->fs            = new Filesystem();
         $this->resultrootdir = $resultrootdir;
